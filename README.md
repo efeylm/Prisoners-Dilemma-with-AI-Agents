@@ -15,7 +15,5 @@ This project simulates repeated games of the **Prisoner's Dilemma** between AI a
 - `CooperativeBot`: Always cooperates
 - `CompetitiveBot`: Always defects
 - `TitForTatBot`: Starts by cooperating, then mimics opponent’s last move
-- (Add your own strategies!)
 
-## 📁 Project Structure
 
